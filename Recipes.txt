@@ -3,7 +3,9 @@ pasta
 sandwich
 fried chicken
 
+beans
+tomatoes
+new food
 
 thanks:)
-
-final copy completed
+done
