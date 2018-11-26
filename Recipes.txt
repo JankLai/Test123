@@ -3,5 +3,7 @@ pasta
 sandwich
 fried chicken
 
+beans
+tomatoes
 
 thanks:)
